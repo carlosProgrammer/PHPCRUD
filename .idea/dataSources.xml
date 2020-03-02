@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="employees@localhost" uuid="4c5a9d90-5789-40f1-829e-d7fb3ba7d19c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/employees</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="America/Santiago" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
